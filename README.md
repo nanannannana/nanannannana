@@ -2,7 +2,7 @@
 📧 email: wisdom.seo024@gmail.com
 <br>
 🌱 blog: https://palette77.tistory.com/
-<br><br>
+<br><br><br>
 
 ## 🛠 Tech Stack
 **Backend & RDBMS**
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<br><br>
+<br><br><br>
 
 ## <img src="https://cdn-icons.flaticon.com/svg/6424/6424084.svg?token=exp=1679844742~hmac=682863c835c97c61a03d46bf202b223b" style="width: 25px; height: 20px;"/> Top Langs & GitHub Status
 <div>
